@@ -1,0 +1,1 @@
+# pyqt5_predict_temokates
