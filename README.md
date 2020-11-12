@@ -1,5 +1,5 @@
 # pyqt5_predict_temokates
-|| Templates include:
+| Templates include:
 
 Read and write operations for Tableweidgets
 
